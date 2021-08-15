@@ -5,6 +5,6 @@
 An arrays ADT holds the collection of given elements accessible by an index.
 <hr>
 <h3>ADT Operations</h3>
-1:Insertation
+1:Insertation <br>
 2:Deletion
 <hr>
