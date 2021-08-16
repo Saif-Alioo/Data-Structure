@@ -12,5 +12,5 @@ An arrays ADT holds the collection of given elements accessible by an index.
 An element can be inserted in an array at a specified position an array at a specified position.
 In order for this operation to be succfully the array should have enough capacity.
 <h4>There are two case:</h4> 
-1:Maintain order : In this case elements need to be shifted to maintain relative ordar. 
+1:Maintain order : In this case elements need to be shifted to maintain relative ordar. <br>
 2:Not maintain order : Insert the element that specific position and that element(present at specific postion) shift at last position of array. 
