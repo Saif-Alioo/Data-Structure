@@ -8,3 +8,6 @@ An arrays ADT holds the collection of given elements accessible by an index.
 1:Insertation <br>
 2:Deletion
 <hr>
+<h3>ADT Insertation</h3>
+An element can be inserted in an array at a specified position an array at a specified position.
+In order for this operation to be succfully the array should have enough capacity.
