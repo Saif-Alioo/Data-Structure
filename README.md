@@ -15,3 +15,4 @@ In order for this operation to be succfully the array should have enough capacit
 1:Maintain order : In this case elements need to be shifted to maintain relative ordar. <br>
 2:Not maintain order : Insert the element that specific position and that element(present at specific postion) shift at last position of array. 
 <hr>
+<h3>Linked List</h3>
